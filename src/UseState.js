@@ -40,10 +40,14 @@ function UseState({name}){
                 placeholder="Código de seguridad" 
                 value={value}
                 onChange={ (event) => {
+                    setError(false);//funciona
                     setValue(event.target.value);
                 }}
             />
-            <button onClick={()=> setLoading(true)}>Comprobar</button>
+            <button onClick={()=> {
+                //setError(false);//funciona
+                setLoading(true);
+            }}>Comprobar</button>
         </div>
     );
 }
