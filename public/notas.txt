@@ -1,0 +1,9 @@
+--crear proyecto
+npx create-react-app nombre-de-tu-proyecto
+--actualizar librerias de node
+npm update -g create-react-app
+
+--3-react component vs react useState
+--4-efectos con useEffect
+--5-metodos del ciclo de vida
+--6
