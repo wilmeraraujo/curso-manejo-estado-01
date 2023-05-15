@@ -8,4 +8,5 @@ npm update -g create-react-app
 --5-metodos del ciclo de vida
 --6
 --7
---8 estadso compuestos con React.component
+--8 estados compuestos con React.component
+--9 estados compuestos con React.useState 
