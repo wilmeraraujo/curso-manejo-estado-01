@@ -12,3 +12,6 @@ npm update -g create-react-app
 --9 estados compuestos con React.useState 
 --10 estados imperativos con useState
 --11 estados semideclarativoscon useState
+--12 reducer
+--13 3 formas de crear un reduce
+--14 estados declarativos con useReducer
