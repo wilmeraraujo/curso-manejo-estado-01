@@ -10,3 +10,4 @@ npm update -g create-react-app
 --7
 --8 estados compuestos con React.component
 --9 estados compuestos con React.useState 
+--10 estados imperativos con useState
