@@ -15,3 +15,5 @@ npm update -g create-react-app
 --12 reducer
 --13 3 formas de crear un reduce
 --14 estados declarativos con useReducer
+--15 Action creators y action types
+--16 estados derivados
